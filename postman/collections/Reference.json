@@ -164,6 +164,24 @@
 					"body": "{\n  \"message\": \"sint\"\n}"
 				}
 			]
+		},
+		{
+			"name": "New Request",
+			"id": "93ff3b5d-cacf-4a39-a179-140fbc24ed4b",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "/new request",
+					"path": [
+						"new request"
+					]
+				}
+			},
+			"response": []
 		}
 	],
 	"auth": {
